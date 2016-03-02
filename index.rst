@@ -1,22 +1,11 @@
-.. mock-doc documentation master file, created by
-   sphinx-quickstart on Wed Mar  2 15:19:32 2016.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+########
+mock-doc
+########
 
-Welcome to mock-doc's documentation!
-====================================
-
-Contents:
+This is a documentation repository for testing `ltd-mason <https://github.com/lsst-sqre/ltd-mason>`_.
 
 .. toctree::
    :maxdepth: 2
 
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
-
+   package_alpha/index.rst
+   package_beta/index.rst
