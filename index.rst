@@ -7,5 +7,5 @@ This is a documentation repository for testing `ltd-mason <https://github.com/ls
 .. toctree::
    :maxdepth: 2
 
-   package_alpha/index.rst
-   package_beta/index.rst
+   alpha/index.rst
+   beta/index.rst
